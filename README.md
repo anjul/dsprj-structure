@@ -1,7 +1,7 @@
 Datascience project structure
 ==============================
 
-This a template for data science projects generated trhough cookiecutter.
+This a template for data science projects generated through cookiecutter.
 
 Project Organization
 ------------
