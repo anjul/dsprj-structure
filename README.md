@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# dsprj-structure
 Datascience project structure
-=======
-dsprj-structure
 ==============================
 
 This a template for data science projects generated trhough cookiecutter.
@@ -59,4 +55,3 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
->>>>>>> Adding template files generated through cookiecutter
